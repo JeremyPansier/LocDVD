@@ -1,0 +1,26 @@
+language: android
+android:
+  components:
+    - build-tools-26.0.2
+    - android-26
+    - sys-img-armeabi-v7a-android-tv-l
+    - add-on
+    - extra
+  licenses:
+    - 'android-sdk-preview-license-52d11cd2'
+    - 'android-sdk-license-.+'
+    - 'google-gdk-license-.+'
+    
+addons:
+  sonarcloud:
+    organization: "jeremypansier-github"
+    token:
+        secure: 9c1403ae310af51c93fa4117cf74c7d6b7af04b6
+        
+before_install:
+  # allow to execute ./gradlew
+  - chmod a+x gradlew
+  
+script:
+  # build the project and execute the SonarCloud analysis
+  - ./gradlew sonarqube
