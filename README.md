@@ -4,7 +4,7 @@
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=LocDVD&metric=alert_status)](https://sonarcloud.io/dashboard/index/LocDVD)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=LocDVD&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=LocDVD&metric=sqale_rating)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=LocDVD&metric=security_rating)](https://sonarcloud.io/component_measures?id=LocDVD&metric=security_rating)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=LocDVD&metric=lines)](https://sonarcloud.io/component_measures?id=LocDVD&metric=lines)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=LocDVD&metric=ncloc)](https://sonarcloud.io/component_measures?id=LocDVD&metric=ncloc)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=LocDVD&metric=coverage)](https://sonarcloud.io/component_measures?id=LocDVD&metric=coverage)
 
 ## Table of Contents
