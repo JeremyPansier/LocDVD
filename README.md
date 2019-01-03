@@ -1,11 +1,11 @@
 ﻿# **LocDVD**
 
 [![Build Status](https://travis-ci.org/JeremyPansier/LocDVD.svg?branch=master)](https://travis-ci.org/JeremyPansier/LocDVD)
-[![Quality Gate](https://sonarcloud.io/api/badges/gate?key=LocDVD)](https://sonarcloud.io/dashboard/index/LocDVD)
-[![Quality Gate](https://sonarcloud.io/api/badges/measure?key=LocDVD&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=LocDVD&metric=sqale_rating)
-[![Quality Gate](https://sonarcloud.io/api/badges/measure?key=LocDVD&metric=security_rating)](https://sonarcloud.io/component_measures?id=LocDVD&metric=security_rating)
-[![Quality Gate](https://sonarcloud.io/api/badges/measure?key=LocDVD&metric=lines)](https://sonarcloud.io/component_measures?id=LocDVD&metric=lines)
-[![Quality Gate](https://sonarcloud.io/api/badges/measure?key=LocDVD&metric=coverage)](https://sonarcloud.io/component_measures?id=LocDVD&metric=coverage)
+[![Quality Gate](https://sonarcloud.io/dashboard?id=LocDVD)](https://sonarcloud.io/dashboard/index/LocDVD)
+[![Quality Gate](https://sonarcloud.io/dashboard?id=LocDVD&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=LocDVD&metric=sqale_rating)
+[![Quality Gate](https://sonarcloud.io/dashboard?id=LocDVD&metric=security_rating)](https://sonarcloud.io/component_measures?id=LocDVD&metric=security_rating)
+[![Quality Gate](https://sonarcloud.io/dashboard?id=LocDVD&metric=lines)](https://sonarcloud.io/component_measures?id=LocDVD&metric=lines)
+[![Quality Gate](https://sonarcloud.io/dashboard?id=LocDVD&metric=coverage)](https://sonarcloud.io/component_measures?id=LocDVD&metric=coverage)
 
 ## Table of Contents
 
